@@ -46,7 +46,7 @@ jQuery(document).ready(function() {
 
     });
 
-	// Failsafes
+	// Failsafes unhide HTML elements which are commonly "empty"
 	jQuery('p').has('area').show();
 	jQuery('p').has('base').show();
 	jQuery('p').has('br').show();
