@@ -1,11 +1,11 @@
 <?php
 /*
  *	Plugin Name: p Squirrel
- *	Plugin URI: https://hq.zendy.net/wordpress/plugins/p-squirrel/
+ *	Plugin URI: https://kauai.zendy.net/wordpress/plugins/p-squirrel/
  *	Description: Hides empty paragraph tags to prevent users from breaking your beautiful designs.
- *	Version: 1.1.3
+ *	Version: 1.1.4
  *	Author: ZendyLabs
- *	Author URI: https://hq.zendy.net/
+ *	Author URI: https://kauai.zendy.net/
  *	License: GPL2v2 or later
  *
 */
