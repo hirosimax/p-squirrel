@@ -3,8 +3,8 @@
  *	Plugin Name: p Squirrel
  *	Plugin URI: https://kauai.zendy.net/wordpress/plugins/p-squirrel/
  *	Description: Hides empty paragraph tags to prevent users from breaking your beautiful designs.
- *	Version: 1.1.4
- *	Author: ZendyLabs
+ *	Version: 1.1.5
+ *	Author: Zendy Web Studio
  *	Author URI: https://kauai.zendy.net/
  *	License: GPL2v2 or later
  *
